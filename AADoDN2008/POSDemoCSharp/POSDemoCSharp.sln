@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSDemoCSharp", "POSDemoCSharp\POSDemoCSharp.csproj", "{7A247636-1F7E-456E-BF4D-E88A7980D2AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Register", "Register\Register.csproj", "{D5B20DC5-38FB-4229-8088-142D10D02844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS", "POS\POS.csproj", "{4C1284A5-369D-44C9-916F-D908D9ED6E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A247636-1F7E-456E-BF4D-E88A7980D2AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A247636-1F7E-456E-BF4D-E88A7980D2AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A247636-1F7E-456E-BF4D-E88A7980D2AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A247636-1F7E-456E-BF4D-E88A7980D2AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B20DC5-38FB-4229-8088-142D10D02844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B20DC5-38FB-4229-8088-142D10D02844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B20DC5-38FB-4229-8088-142D10D02844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B20DC5-38FB-4229-8088-142D10D02844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1284A5-369D-44C9-916F-D908D9ED6E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1284A5-369D-44C9-916F-D908D9ED6E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1284A5-369D-44C9-916F-D908D9ED6E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1284A5-369D-44C9-916F-D908D9ED6E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

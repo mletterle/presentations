@@ -1,0 +1,9 @@
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\POSDemoCSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\POSDemoCSharp\bin\Debug\POSDemoCSharp.exe
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\POSDemoCSharp\bin\Debug\POSDemoCSharp.pdb
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\POSDemoCSharp\bin\Debug\Register.dll
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\POSDemoCSharp\bin\Debug\Register.pdb
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\POSDemoCSharp\obj\Debug\POSDemoCSharp.exe
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\POSDemoCSharp\obj\Debug\POSDemoCSharp.pdb
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\POSDemoCSharp\bin\Debug\POS.dll
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\POSDemoCSharp\bin\Debug\POS.pdb

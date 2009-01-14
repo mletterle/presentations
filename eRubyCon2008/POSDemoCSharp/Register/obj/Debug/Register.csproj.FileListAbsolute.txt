@@ -1,0 +1,11 @@
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\Register\obj\Debug\ResolveAssemblyReference.cache
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\Register\bin\Debug\Register.dll
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\Register\bin\Debug\Register.pdb
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\Register\obj\Debug\Register.dll
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\Register\obj\Debug\Register.pdb
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\Register\obj\Debug\Register.csproj.GenerateResource.Cache
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\Register\bin\Debug\POS.dll
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\Register\bin\Debug\POS.pdb
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\Register\obj\Debug\AdventureWorks.POS.Register.ItemLookUp.resources
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\Register\obj\Debug\AdventureWorks.POS.Register.CheckOut.resources
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\Register\obj\Debug\AdventureWorks.POS.Register.Receipt.resources

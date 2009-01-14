@@ -1,0 +1,3 @@
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\CheckOutForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\CheckOutForm\obj\Debug\CheckOutForm.Properties.Resources.resources
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\CheckOutForm\obj\Debug\CheckOutForm.csproj.GenerateResource.Cache

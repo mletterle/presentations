@@ -1,0 +1,6 @@
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\POS\bin\Debug\POS.dll.config
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\POS\bin\Debug\POS.dll
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\POS\bin\Debug\POS.pdb
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\POS\obj\Debug\ResolveAssemblyReference.cache
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\POS\obj\Debug\POS.dll
+C:\Mike\Dev\eRubyCon\POSDemoCSharp\POS\obj\Debug\POS.pdb
